@@ -7,7 +7,7 @@ This is a sample project for Regentmarket Markets Group company recruitement pro
 
 For purpose of the test, assume a system that accepts following parameters and generate a price as decribed bellow. 
 
-F = S * e ^ (r*t)
+F = S * e ^ (r*t) a
 
 F : Future Contract
 S : Current spot price, you will receive it from a third party provider in a realtime manner.
